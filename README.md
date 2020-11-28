@@ -1,2 +1,3 @@
-# vibeos.github.io
-Homepage of vibeOS (WIP)
+<center>
+    ![vibeOS Logo](img/readme/logo.png)
+</center>

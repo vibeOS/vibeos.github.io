@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+<div style="float: left;">
+<img src="img/logo.png" alt="vibeOS Logo" width="200px" style="float: left;">
+</div>
+
+

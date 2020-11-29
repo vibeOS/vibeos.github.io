@@ -2,7 +2,7 @@
 layout: post
 title:  "Announcement: vibeOS Legacy Transition"
 date:   2020-11-28 19:39:00 -0800
-categories: legacy announcement
+categories: announcements
 ---
 
 Today we are announcing that the vibeOS Development Team is working on a new version of vibeOS that is a complete, top-to-bottom rewrite of the

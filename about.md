@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-**Attention: This page is marked as WORK IN PROGRESS and may not be complete or accurate.**
+**Attn 2021-11-13: vibeOS is a deprecated project and this document has not been updated to reflect the current state of the project.**
 
 ## History
 

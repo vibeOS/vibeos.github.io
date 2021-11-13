@@ -3,7 +3,7 @@ layout: page
 title: Getting Started
 ---
 
-**Attention: This page is marked as WORK IN PROGRESS and may not be complete or accurate.**
+**Attn 2021-11-13: vibeOS is a deprecated project and this document has not been updated to reflect the current state of the project.**
 
 This document will include instructions for both **vibeOS** and **vibeOS Legacy**, as their setup instructions are different. For most purposes, you can ignore the vibeOS Legacy instructions as it is deprecated and no longer supported.
 

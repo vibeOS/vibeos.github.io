@@ -19,9 +19,3 @@ I want to take a moment and thank anyone who, even slightly, contributed to this
 
 Sincerely,
 ctaetcsh
-
-If you need to contact me regarding vibeOS:
-* Email: ctaetcsh@outlook.com
-* Discord: `ctaetcsh#7777`
-
-

@@ -16,6 +16,3 @@ To further explain this decision, the following is an excerpt from an announceme
 Beyond that, I will mention that Divide and I did make considerable progress on the announced "new" version of vibeOS that was created to replace what is now known as vibeOS Legacy. During it's development it remained closed source, however, given no more development will occur It is my intention to release it and have it archived.
 
 I want to take a moment and thank anyone who, even slightly, contributed to this project. This has been a fun project to work on, and I learned a lot, but the show must go on.
-
-Sincerely,
-ctaetcsh

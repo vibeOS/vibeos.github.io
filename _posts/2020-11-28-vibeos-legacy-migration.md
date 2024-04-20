@@ -37,7 +37,3 @@ vibeOS will be written in this version of XML, including OSDV, the Operating Sys
 
 I am looking forward to presenting new vibeOS in the near future, and seeing how we can improve it and what can be done with it. I want to thank Divide
 for pouring his hard work into making this possible. We are far from done, stay tuned.
-
-Sincerely, ctaetcsh
-
-Want to get in touch? Contact me via Discord! Add me: `ctaetcsh#8411` or [Join my Server](https://discord.gg/ArxQsnAEjF).
